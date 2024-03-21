@@ -74,10 +74,10 @@ func main() {
 				bot.Send(msg)
 			case "/admin":
 				logs.Log("@" + update.Message.From.UserName + "  " + "ИМЯ: " + update.Message.Chat.FirstName + " " + update.Message.Chat.LastName + "  " + "ID: " + strconv.Itoa(int(update.Message.Chat.ID)) + "  " + update.Message.Text + "\n")
-				msg := tgbotapi.NewMessage(update.Message.Chat.ID, `Переходи👇`)
+				msg := tgbotapi.NewMessage(update.Message.Chat.ID, `Админ🐼`)
 				keyboard := tgbotapi.NewInlineKeyboardMarkup(
 					tgbotapi.NewInlineKeyboardRow(
-						tgbotapi.NewInlineKeyboardButtonURL("Поддержка!", "https://t.me/Alisher_Adenov"),
+						tgbotapi.NewInlineKeyboardButtonURL("Админ тут", "https://t.me/Alisher_Adenov"),
 					),
 				)
 				msg.ReplyMarkup = keyboard
