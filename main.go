@@ -67,7 +67,7 @@ func main() {
 				msg := tgbotapi.NewMessage(update.Message.Chat.ID, `Админ🐼`)
 				keyboard := tgbotapi.NewInlineKeyboardMarkup(
 					tgbotapi.NewInlineKeyboardRow(
-						tgbotapi.NewInlineKeyboardButtonURL("Админ тут", "https://t.me/Alisher_Adenov"),
+						tgbotapi.NewInlineKeyboardButtonURL("Админ тут", "https://t.me/gesti_9"),
 					),
 				)
 				msg.ReplyMarkup = keyboard
@@ -77,7 +77,7 @@ func main() {
 				msg := tgbotapi.NewMessage(update.Message.Chat.ID, `Админ🐼`)
 				keyboard := tgbotapi.NewInlineKeyboardMarkup(
 					tgbotapi.NewInlineKeyboardRow(
-						tgbotapi.NewInlineKeyboardButtonURL("Админ тут", "https://t.me/Alisher_Adenov"),
+						tgbotapi.NewInlineKeyboardButtonURL("Админ тут", "https://t.me/gesti_9"),
 					),
 				)
 				msg.ReplyMarkup = keyboard
@@ -89,8 +89,8 @@ func main() {
 					result, _ := service.Output(update.Message.Text)
 					num, _ := strconv.Atoi(result)
 
-					if data.ReadFromFile("data/users/"+strconv.Itoa(int(update.Message.Chat.ID))+".txt") == "10" {
-						msg := tgbotapi.NewMessage(update.Message.Chat.ID, "Для продолжения оплатите 4000 тенге, для оплаты напишите Администратору!")
+					if data.ReadFromFile("data/users/"+strconv.Itoa(int(update.Message.Chat.ID))+".txt") == "5" {
+						msg := tgbotapi.NewMessage(update.Message.Chat.ID, "Для продолжения оплатите 4000 тенге доступ на 1 месяц, для оплаты напишите Администратору!")
 						msg.ReplyToMessageID = update.Message.MessageID
 						bot.Send(msg)
 						fmt.Println(data.ReadFromFile("data/users/" + strconv.Itoa(int(update.Message.Chat.ID)) + ".txt"))
@@ -106,10 +106,21 @@ func main() {
 						formatted := fmt.Sprintf("%.1f", day)
 						fmt.Println(formatted)
 						price, _ := service.Price(update.Message.Text)
-						moneyM := price * 30
+						var moneyM int
+						var moneyM2 int
+						res1, _ := strconv.Atoi(result)
+						if int(mes) == 0 {
+							moneyM = price * res1
+							moneyM2 = 0
+						} else {
+							moneyM = price * res1
+							moneyM2 = price * int(mes)
+						}
+
+						fmt.Print(res1)
 						msg = tgbotapi.NewMessage(update.Message.Chat.ID, `Продажи за все время: `+result+` шт`+"\n"+
-							`За месяц: `+strconv.Itoa(int(mes))+` шт`+"\n"+`За день: `+formatted+` шт`+
-							"\n"+`Заработали: `+strconv.Itoa(moneyM)+` тенге`)
+							`За месяц: `+strconv.Itoa(int(mes))+` шт`+"\n"+`За день: `+formatted+` шт`+"\n"+`В месяц заработок: `+strconv.Itoa(moneyM2)+` тенге`+
+							"\n"+`Заработали за все время: `+strconv.Itoa(moneyM)+` тенге`)
 						msg.ReplyToMessageID = update.Message.MessageID
 
 						bot.Send(msg)
