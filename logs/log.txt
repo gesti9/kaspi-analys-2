@@ -781,3 +781,7 @@ exit status 1
 2024-05-17 14:39:27    @Its_Gutss  ИМЯ: Nrbh   ID: 1653960242  https://kaspi.kz/shop/p/xiaomi-mi-bhr4927gl-belyi-101821147/?c=750000000&sr=14&qid=98b60a468c10731bd4ffd3aaea205fd0&ref=shared_link
 2024-05-20 09:27:06    @  ИМЯ: Diana   ID: 1450773289  /start
 2024-05-20 12:58:43    @  ИМЯ: Diana   ID: 1450773289  https://kaspi.kz/shop/p/stol-turisticheskii-skladnoi-nomad-nd-6362-112095411/?c=632810000&sr=2&qid=7cb00f67a6bd9d47a4901adf19d73aee&ref=shared_link
+2024-06-22 23:21:23    @dba_nurs  ИМЯ: Nursultan Aidarbekov  ID: 452639799  https://kaspi.kz/shop/p/oneplus-nord-2-5g-12-256gb-goluboi-102105939/?c=710000000&ref=shared_link
+2024-06-22 23:21:35    @dba_nurs  ИМЯ: Nursultan Aidarbekov  ID: 452639799  https://kaspi.kz/shop/p/yunteko-i58-zolotistyi-rozovyi-111055053/?c=710000000&m=2240003&ref=shared_link
+2024-06-22 23:22:05    @dba_nurs  ИМЯ: Nursultan Aidarbekov  ID: 452639799  /admin
+2024-06-22 23:22:53    @dba_nurs  ИМЯ: Nursultan Aidarbekov  ID: 452639799  /admin

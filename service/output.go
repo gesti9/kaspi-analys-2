@@ -2,14 +2,12 @@ package service
 
 import (
 	"fmt"
+	"io/ioutil"
 	"net/http"
 	"regexp"
 	"strconv"
-	"time"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/tebeka/selenium"
-	"github.com/tebeka/selenium/chrome"
 )
 
 func Output(n string) (string, error) {
@@ -59,64 +57,34 @@ func Output(n string) (string, error) {
 }
 
 func Price(url string) (int, error) {
-	// Run Chrome browser
-	service, err := selenium.NewChromeDriverService("C:/chromedriver-win64/chromedriver.exe", 4444)
+	resp, err := http.Get(url)
 	if err != nil {
-		return 0, err
+		return 0, fmt.Errorf("ошибка при выполнении GET-запроса: %v", err)
 	}
-	defer service.Stop()
+	defer resp.Body.Close()
 
-	caps := selenium.Capabilities{}
-	caps.AddChrome(chrome.Capabilities{Args: []string{
-		"window-size=1920x1080",
-		"--no-sandbox",
-		"--disable-dev-shm-usage",
-		"disable-gpu",
-		"--headless", // раскомментируйте эту строку, чтобы сделать браузер невидимым
-	}})
-
-	driver, err := selenium.NewRemote(caps, "")
+	body, err := ioutil.ReadAll(resp.Body)
 	if err != nil {
-		return 0, err
+		return 0, fmt.Errorf("ошибка при чтении тела ответа: %v", err)
 	}
 
-	driver.Get(url)
+	// Найти все совпадения с регулярным выражением
+	re := regexp.MustCompile(`"price": "(\d+)"`)
+	matches := re.FindAllStringSubmatch(string(body), -1)
 
-	// Ждем 2 секунды вместо 5
-	time.Sleep(2 * time.Second)
-
-	// Находим элемент по классу
-	elem, err := driver.FindElement(selenium.ByClassName, "item__price-once")
-	if err != nil {
-		return 0, err
+	// Извлечь только цифры из совпадений
+	var sum int
+	for _, match := range matches {
+		if len(match) >= 2 {
+			price, err := strconv.Atoi(match[1])
+			if err != nil {
+				return 0, fmt.Errorf("ошибка при конвертации строки в число: %v", err)
+			}
+			sum += price
+		}
 	}
 
-	// Получаем текст из элемента
-	text, err := elem.Text()
-	if err != nil {
-		return 0, err
-	}
-
-	// Извлекаем только цифры с использованием регулярного выражения
-	re := regexp.MustCompile(`\d+`)
-	digits := re.FindAllString(text, -1)
-
-	// Объединяем извлеченные цифры в одну строку
-	resultString := ""
-	for _, digit := range digits {
-		resultString += digit
-	}
-
-	// Преобразуем строку в число
-	res, err := strconv.Atoi(resultString)
-	if err != nil {
-		return 0, err
-	}
-
-	fmt.Println("Текст из элемента item__price-once:", text)
-	fmt.Println("Извлеченные цифры:", res)
-
-	return res, nil
+	return sum, nil
 }
 
 // Функция для вычисления суммы (ваша логика)

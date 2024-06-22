@@ -67,7 +67,7 @@ func main() {
 				msg := tgbotapi.NewMessage(update.Message.Chat.ID, `Админ🐼`)
 				keyboard := tgbotapi.NewInlineKeyboardMarkup(
 					tgbotapi.NewInlineKeyboardRow(
-						tgbotapi.NewInlineKeyboardButtonURL("Админ тут", "https://t.me/gesti_9"),
+						tgbotapi.NewInlineKeyboardButtonURL("Админ тут", "https://t.me/dba_nurs"),
 					),
 				)
 				msg.ReplyMarkup = keyboard
@@ -77,7 +77,7 @@ func main() {
 				msg := tgbotapi.NewMessage(update.Message.Chat.ID, `Админ🐼`)
 				keyboard := tgbotapi.NewInlineKeyboardMarkup(
 					tgbotapi.NewInlineKeyboardRow(
-						tgbotapi.NewInlineKeyboardButtonURL("Админ тут", "https://t.me/gesti_9"),
+						tgbotapi.NewInlineKeyboardButtonURL("Админ тут", "https://t.me/dba_nurs"),
 					),
 				)
 				msg.ReplyMarkup = keyboard
