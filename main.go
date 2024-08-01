@@ -89,8 +89,8 @@ func main() {
 					result, _ := service.Output(update.Message.Text)
 					num, _ := strconv.Atoi(result)
 
-					if data.ReadFromFile("data/users/"+strconv.Itoa(int(update.Message.Chat.ID))+".txt") == "5" {
-						msg := tgbotapi.NewMessage(update.Message.Chat.ID, "Для продолжения оплатите 4000 тенге доступ на 1 месяц, для оплаты напишите Администратору!")
+					if data.ReadFromFile("data/users/"+strconv.Itoa(int(update.Message.Chat.ID))+".txt") == "3" {
+						msg := tgbotapi.NewMessage(update.Message.Chat.ID, "Для продолжения оплатите 500 тенге для доступа на неограниченое количество запросов на 1 месяц, для оплаты напишите Администратору!")
 						msg.ReplyToMessageID = update.Message.MessageID
 						bot.Send(msg)
 						fmt.Println(data.ReadFromFile("data/users/" + strconv.Itoa(int(update.Message.Chat.ID)) + ".txt"))

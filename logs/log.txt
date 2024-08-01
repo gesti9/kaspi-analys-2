@@ -785,3 +785,295 @@ exit status 1
 2024-06-22 23:21:35    @dba_nurs  ИМЯ: Nursultan Aidarbekov  ID: 452639799  https://kaspi.kz/shop/p/yunteko-i58-zolotistyi-rozovyi-111055053/?c=710000000&m=2240003&ref=shared_link
 2024-06-22 23:22:05    @dba_nurs  ИМЯ: Nursultan Aidarbekov  ID: 452639799  /admin
 2024-06-22 23:22:53    @dba_nurs  ИМЯ: Nursultan Aidarbekov  ID: 452639799  /admin
+2024-06-22 23:25:08    @dba_nurs  ИМЯ: Nursultan Aidarbekov  ID: 452639799  https://kaspi.kz/shop/p/azija-brend-azija-fs-45-chernyi-101880802/?c=750000000
+2024-06-22 23:25:28    @dba_nurs  ИМЯ: Nursultan Aidarbekov  ID: 452639799  https://kaspi.kz/shop/p/azija-brend-3-in-1-chernyi-goluboi-110191049/?c=750000000
+2024-06-22 23:35:19    @dba_nurs  ИМЯ: Nursultan Aidarbekov  ID: 452639799  https://kaspi.kz/shop/p/azija-brend-3-in-1-chernyi-goluboi-110191049/?c=750000000
+2024-06-23 08:22:03    @  ИМЯ: Мм Мм  ID: 6330001488  Администратор!
+2024-06-23 08:22:03    @dba_nurs  ИМЯ: Nursultan Aidarbekov  ID: 452639799  N
+2024-06-23 11:58:24    @dba_nurs  ИМЯ: Nursultan Aidarbekov  ID: 452639799  Рр
+2024-06-23 22:21:31    @mayamaya28  ИМЯ: Maйра   ID: 339887363  /start
+2024-06-24 15:38:35    @baidildina15  ИМЯ: /Z/ Baidildina  ID: 6042734534  /start
+2024-06-24 15:43:02    @baidildina15  ИМЯ: /Z/ Baidildina  ID: 6042734534  https://kaspi.kz/shop/p/sumka-kross-bodi-18524077-charm-iskusstvennaja-kozha-korichnevyi-bezhevyi-116052110/?c=591010000&ref=shared_link
+2024-06-24 15:43:29    @baidildina15  ИМЯ: /Z/ Baidildina  ID: 6042734534  https://kaspi.kz/shop/p/dlja-apple-iphone-13-belyi-113920641/?c=591010000&ref=shared_link
+2024-06-24 15:43:52    @baidildina15  ИМЯ: /Z/ Baidildina  ID: 6042734534  https://kaspi.kz/shop/p/kepka-los-angeless-001-razmer-56-57-58-59-chernyi-117384116/?c=591010000&ref=shared_link
+2024-06-24 15:44:22    @baidildina15  ИМЯ: /Z/ Baidildina  ID: 6042734534  https://kaspi.kz/shop/p/forlux-zerkalo-a021-45x159-sm-napol-noe-106041913/?c=591010000&ref=shared_link
+2024-06-24 15:45:42    @baidildina15  ИМЯ: /Z/ Baidildina  ID: 6042734534  https://kaspi.kz/shop/p/povsednevnoe-plat-e-vechernee-plat-e-black-fashion-731653-chernyi-s-112524611/?c=591010000&sr=1&qid=22061c9147b6913376d9cea6e5ca2ef7&hasVariants=true&ref=shared_link
+2024-06-24 15:47:25    @baidildina15  ИМЯ: /Z/ Baidildina  ID: 6042734534  https://kaspi.kz/shop/p/povsednevnoe-plat-e-16984131-110614-chernyi-42-116670453/?c=591010000&sr=9&qid=22061c9147b6913376d9cea6e5ca2ef7&hasVariants=true&ref=shared_link
+2024-06-24 15:48:15    @baidildina15  ИМЯ: /Z/ Baidildina  ID: 6042734534  https://kaspi.kz/shop/p/povsednevnoe-plat-e-pdwr-220019-zelenyi-s-107326468/?c=591010000&sr=32&qid=22061c9147b6913376d9cea6e5ca2ef7&hasVariants=true&ref=shared_link
+2024-06-24 15:48:56    @baidildina15  ИМЯ: /Z/ Baidildina  ID: 6042734534  https://kaspi.kz/shop/p/kupal-nik-slitnyi-15844219-19249-chernyi-s-109730426/?c=591010000&sr=1&qid=8fd1e72acb7402911d797506da80b39e&hasVariants=true&ref=shared_link
+2024-06-25 22:20:00    @mar1yamkka  ИМЯ: Мариям   ID: 1009942090  /start
+2024-06-25 22:21:24    @mar1yamkka  ИМЯ: Мариям   ID: 1009942090  https://kaspi.kz/shop/p/politun-pt-v9-kompaktnyi-fen-5000-vt-117108852/?c=750000000&ref=shared_link
+2024-06-25 22:21:38    @mar1yamkka  ИМЯ: Мариям   ID: 1009942090  https://kaspi.kz/shop/p/t-g-tg-113-krasnyi-103675698/?c=750000000&ref=shared_link
+2024-06-25 22:22:01    @mar1yamkka  ИМЯ: Мариям   ID: 1009942090  https://kaspi.kz/shop/p/tgs-tg-113-mul-tikolor-110141081/?c=750000000&ref=shared_link
+2024-06-25 22:23:57    @mar1yamkka  ИМЯ: Мариям   ID: 1009942090  https://kaspi.kz/shop/p/nika-sb2-20-102938187/?c=750000000&sr=2&qid=b7897f3f3cf8de9ff6b4885216dd6116&ref=shared_link
+2024-06-25 23:03:57    @mar1yamkka  ИМЯ: Мариям   ID: 1009942090  https://kaspi.kz/shop/p/mini-handheld-fan-mul-tikolor-119593154/?c=750000000&sr=2&qid=23794f4fb0fada00b8a67a83c7c31176&ref=shared_link
+2024-06-26 15:45:35    @dba_nurs  ИМЯ: Nursultan Aidarbekov  ID: 452639799  Ь
+2024-06-27 13:22:02    @  ИМЯ: Parassat Abilkhaiyr  ID: 5907846254  /start
+2024-06-27 13:22:11    @  ИМЯ: Parassat Abilkhaiyr  ID: 5907846254  https://kaspi.kz/shop/p/triangle-te307-205-65-r15-94-v-116805338/?c=710000000
+2024-06-27 13:23:18    @  ИМЯ: Parassat Abilkhaiyr  ID: 5907846254  https://kaspi.kz/shop/p/sm-7700-serebristyi-110902818/?c=710000000
+2024-06-27 13:28:05    @  ИМЯ: Parassat Abilkhaiyr  ID: 5907846254  https://kaspi.kz/shop/p/dlja-apple-iphone-13-chernyi-103319196/?c=710000000
+2024-06-27 13:31:01    @  ИМЯ: Parassat Abilkhaiyr  ID: 5907846254  https://kaspi.kz/shop/p/a-case-dlja-apple-iphone-15-prozrachnyi-113282830/?c=710000000
+2024-06-27 13:33:26    @  ИМЯ: Parassat Abilkhaiyr  ID: 5907846254  https://kaspi.kz/shop/p/sorter-nabor-razvivajuschih-igrushek-derevo-108447545/?c=710000000
+2024-06-27 13:34:36    @  ИМЯ: Parassat Abilkhaiyr  ID: 5907846254  https://kaspi.kz/shop/p/obuchajuschii-nabor-tilashar-plastik-karton-110318230/?c=710000000
+2024-06-28 12:17:55    @DarynErSa  ИМЯ: ᴅᴀʀʏɴ Rᴀᴇᴠ  ID: 1393943139  /start
+2024-06-28 12:18:01    @DarynErSa  ИМЯ: ᴅᴀʀʏɴ Rᴀᴇᴠ  ID: 1393943139  https://kaspi.kz/shop/p/legginsy-pro-combat-2010-chernyi-l-116968695/?c=750000000&ref=shared_link
+2024-06-28 12:18:32    @DarynErSa  ИМЯ: ᴅᴀʀʏɴ Rᴀᴇᴠ  ID: 1393943139  https://kaspi.kz/shop/p/nabor-gantelei-ztoa-razbornaja-2-sht-20-kg-40-112377451/?m=30187012&ref=shared_link
+2024-06-28 12:37:36    @DarynErSa  ИМЯ: ᴅᴀʀʏɴ Rᴀᴇᴠ  ID: 1393943139  https://kaspi.kz/shop/p/kapsuly-clean-8h-0-432-kg-36-sht-114350154/?c=750000000&ref=shared_link
+2024-06-28 12:38:22    @DarynErSa  ИМЯ: ᴅᴀʀʏɴ Rᴀᴇᴠ  ID: 1393943139  https://kaspi.kz/shop/p/apple-iphone-15-pro-128gb-seryi-113138184/?c=750000000&m=7080000&sr=1&qid=c51bb415c6058ce5bd9aef82f9bfc9d5&ref=shared_link
+2024-06-28 14:43:49    @DarynErSa  ИМЯ: ᴅᴀʀʏɴ Rᴀᴇᴠ  ID: 1393943139  https://kaspi.kz/shop/p/arg-csh-12ba-belyi-montazhnyi-komplekt-116988930/?c=750000000&referrer=desktop_QR&ref=shared_link
+2024-06-28 14:54:13    @DarynErSa  ИМЯ: ᴅᴀʀʏɴ Rᴀᴇᴠ  ID: 1393943139  https://kaspi.kz/shop/p/sumka-kross-bodi-michael-kors-35s1gttc9b-natural-naja-kozha-korichnevyi-102116795/?c=750000000&referrer=desktop_QR&ref=shared_link
+2024-06-28 15:25:16    @DarynErSa  ИМЯ: ᴅᴀʀʏɴ Rᴀᴇᴠ  ID: 1393943139  https://kaspi.kz/shop/p/krossovki-adidas-samba-og-b75806-belyi-38-113506704/?c=750000000&hasVariants=true&referrer=desktop_QR&ref=shared_link
+2024-06-28 17:18:10    @nurzh08  ИМЯ: 🥹❤️   ID: 1432037402  /start
+2024-06-28 17:21:40    @nurzh08  ИМЯ: 🥹❤️   ID: 1432037402  https://kaspi.kz/shop/p/apple-airpods-2nd-generation-belyi-114927908/?c=750000000&sr=6&qid=683e04daca967301482b769130719883&ref=shared_link
+2024-06-28 17:23:46    @nurzh08  ИМЯ: 🥹❤️   ID: 1432037402  https://kaspi.kz/shop/p/come-inside-me-bombshell-duhi-parfum-7-ml-uniseks-117051002/?c=750000000&ref=shared_link
+2024-06-28 17:26:28    @nurzh08  ИМЯ: 🥹❤️   ID: 1432037402  https://kaspi.kz/shop/p/kvartsevye-casio-a158wa-1df-plastik-21401320/?c=750000000&sr=20&ref=shared_link
+2024-06-28 17:30:24    @nurzh08  ИМЯ: 🥹❤️   ID: 1432037402  https://kaspi.kz/shop/p/future-mashinka-diskoshar-09-plastik-birjuzovyi-103667472/?c=750000000&sr=12&ref=shared_link
+2024-06-28 17:55:43    @nurzh08  ИМЯ: 🥹❤️   ID: 1432037402  https://kaspi.kz/shop/p/deerma-dx700-belyi-3701383/?c=750000000&sr=1&ref=shared_link
+2024-06-28 17:58:00    @nurzh08  ИМЯ: 🥹❤️   ID: 1432037402  https://kaspi.kz/shop/p/kosmetichka-poliester-10-5x17-sm-109126670/?c=750000000&sr=2&qid=a161d1feae9d0cb5e99abb7b1d4e06e2&ref=shared_link
+2024-06-28 18:02:11    @nurzh08  ИМЯ: 🥹❤️   ID: 1432037402  https://kaspi.kz/shop/p/krossovki-c352-belyi-41-109286948/?c=750000000&sr=3&hasVariants=true&ref=shared_link
+2024-06-28 18:03:02    @nurzh08  ИМЯ: 🥹❤️   ID: 1432037402  https://kaspi.kz/shop/p/bloknot-planirovschik-bjudzheta-a6-64-listov-seryi-112150152/?c=750000000&m=15913700&sr=1&qid=b9af5dce89690ac59f2897cfb73f31b9&ref=shared_link
+2024-06-28 18:05:18    @nurzh08  ИМЯ: 🥹❤️   ID: 1432037402  https://kaspi.kz/shop/p/aulandi-irrigator-hf-6-impul-snyi-emkost-300-ml-106935673/?c=750000000&sr=4&qid=24830c721fe03329898c18fa3767fdb9&ref=shared_link
+2024-06-29 12:49:54    @nurzh08  ИМЯ: 🥹❤️   ID: 1432037402  https://kaspi.kz/shop/p/kvartsevye-casio-a159wa-n1df-plastik-21401321/?c=471010000&sr=18&qid=38a7833b231ee2503781e89635872f5b&ref=shared_link
+2024-06-29 13:12:58    @nurzh08  ИМЯ: 🥹❤️   ID: 1432037402  https://kaspi.kz/shop/p/avtomat-s-orbizami-17218196-682161-mul-tikolor-110375261/?c=471010000&sr=1&qid=225fab3f2b447cf03c22c71f95979b1d&ref=shared_link
+2024-06-29 23:40:39    @mybad98  ИМЯ: ⚡ Андрей   ID: 1792269304  /start
+2024-06-29 23:41:03    @mybad98  ИМЯ: ⚡ Андрей   ID: 1792269304  https://kaspi.kz/shop/p/apple-iphone-15-pro-max-256gb-seryi-113138420/?c=750000000
+2024-06-29 23:41:32    @mybad98  ИМЯ: ⚡ Андрей   ID: 1792269304  https://kaspi.kz/shop/p/aleks-mineral-naja-saryagash-gazirovannaja-1-5-l-100211003/?c=750000000
+2024-06-29 23:42:03    @mybad98  ИМЯ: ⚡ Андрей   ID: 1792269304  https://kaspi.kz/shop/p/dlja-apple-iphone-13-prozrachnyi-106185651/?c=750000000
+2024-06-29 23:42:39    @mybad98  ИМЯ: ⚡ Андрей   ID: 1792269304  https://kaspi.kz/shop/p/azija-brend-azija-fs-45-chernyi-101880802/?c=750000000
+2024-06-30 12:00:29    @nurzh08  ИМЯ: 🥹❤️   ID: 1432037402  https://kaspi.kz/shop/p/chetki-zikrring-elektronnye-metall-plastik-107075656/?c=471010000&sr=1&ref=shared_link
+2024-06-30 12:00:41    @nurzh08  ИМЯ: 🥹❤️   ID: 1432037402  https://kaspi.kz/shop/p/chetki-zikrring-elektronnye-metall-18-sm-109387282/?c=471010000&sr=2&ref=shared_link
+2024-07-01 09:21:05    @nurzh08  ИМЯ: 🥹❤️   ID: 1432037402  https://kaspi.kz/shop/p/chainik-tea-pot-61termo-1-l-steklo-103262843/?c=471010000&sr=1&qid=b0dc12daf71d9ee0cffe940ab331cc91&ref=shared_link
+2024-07-01 09:26:02    @nurzh08  ИМЯ: 🥹❤️   ID: 1432037402  https://kaspi.kz/shop/p/arktika-040msz-0-3-l-zelenyi-100322094/?maSource=dynamicLink&ref=shared_link
+2024-07-01 09:48:47    @nurzh08  ИМЯ: 🥹❤️   ID: 1432037402  https://kaspi.kz/shop/p/nabor-kastrjul-fe-09-3024-granit-9-v-1-112766155/?c=471010000&sr=10&qid=60722ce732aeb57fdd2daa0607cfff24&ref=shared_link
+2024-07-01 09:49:14    @nurzh08  ИМЯ: 🥹❤️   ID: 1432037402  Администратор!
+2024-07-01 10:11:29    @zhakonastroika  ИМЯ: Мм   ID: 5429910222  /start
+2024-07-01 10:12:04    @zhakonastroika  ИМЯ: Мм   ID: 5429910222  https://kaspi.kz/shop/p/nabor-kastrjul-fe-09-3024-granit-9-v-1-112766155/?c=471010000&sr=10&qid=60722ce732aeb57fdd2daa0607cfff24&ref=shared_link
+2024-07-01 10:12:38    @zhakonastroika  ИМЯ: Мм   ID: 5429910222  https://kaspi.kz/shop/p/serviz-chaino-stolovyi-katherina-323-32-v-1-108611835/?c=471010000&sr=4&qid=1fc37f457f28f62b7c2c70e50de53d48&ref=shared_link
+2024-07-01 10:13:05    @zhakonastroika  ИМЯ: Мм   ID: 5429910222  https://kaspi.kz/shop/p/serviz-chaino-stolovyi-887080-32-v-1-112066821/?c=471010000&sr=5&qid=1fc37f457f28f62b7c2c70e50de53d48&ref=shared_link
+2024-07-01 10:13:32    @zhakonastroika  ИМЯ: Мм   ID: 5429910222  https://kaspi.kz/shop/p/nmb-nabor-kuhonnyh-instrumentov-019-2-12-sht-derevo-silikon-102139673/?c=471010000&sr=6&qid=1fc37f457f28f62b7c2c70e50de53d48&ref=shared_link
+2024-07-01 10:13:55    @zhakonastroika  ИМЯ: Мм   ID: 5429910222  https://kaspi.kz/shop/p/osfe-kazan-tykvennyi-1758-4-l-aljuminii-116112484/?c=471010000&m=18459162&sr=21&qid=1fc37f457f28f62b7c2c70e50de53d48&ref=shared_link
+2024-07-01 11:01:51    @zhakonastroika  ИМЯ: Мм   ID: 5429910222  https://kaspi.kz/shop/p/kovrik-70x120-sm-113293186/?c=471010000&sr=1&qid=e8fb24ad0cf070778ab5e26c4d70969d&ref=shared_link
+2024-07-01 11:02:36    @zhakonastroika  ИМЯ: Мм   ID: 5429910222  https://kaspi.kz/shop/p/nabor-chainikov-3-1-l-emal-aljuminii-stal--106365348/?c=471010000&sr=1&qid=90e94cb8ad2170fc0e40b2a64ab2a68b&ref=shared_link
+2024-07-01 11:36:59    @dba_nurs  ИМЯ: Nursultan Aidarbekov  ID: 452639799  d
+2024-07-01 22:40:40    @zhakonastroika  ИМЯ: Мм   ID: 5429910222  https://kaspi.kz/shop/p/kvartsevye-casio-a158wa-1df-plastik-21401320/?c=471010000&sr=6&qid=06d163cbd1e581922550baa3c36a8128&ref=shared_link
+2024-07-01 22:41:12    @zhakonastroika  ИМЯ: Мм   ID: 5429910222  https://kaspi.kz/shop/p/kvartsevye-casio-mtp-1374l-1avdf-stal--21400996/?c=471010000&sr=2&qid=8e712b4ea43d640dfe1e1979e90e9572&ref=shared_link
+2024-07-01 22:41:35    @zhakonastroika  ИМЯ: Мм   ID: 5429910222  https://kaspi.kz/shop/p/kvartsevye-casio-mtp-1375d-1avdf-stal--21401211/?c=471010000&sr=5&qid=8e712b4ea43d640dfe1e1979e90e9572&ref=shared_link
+2024-07-02 10:06:14    @zhakonastroika  ИМЯ: Мм   ID: 5429910222  https://kaspi.kz/shop/p/avtomat-san-li-toys-colt-68017648-105742646/?c=471010000&sr=1&qid=fd770b441b799f151a32baa4ab6b59d0&ref=shared_link
+2024-07-02 10:06:52    @zhakonastroika  ИМЯ: Мм   ID: 5429910222  https://kaspi.kz/shop/p/avtomat-san-li-toys-colt-68017648-105742646/?c=471010000&sr=1&qid=fd770b441b799f151a32baa4ab6b59d0&ref=shared_link
+2024-07-02 10:07:17    @zhakonastroika  ИМЯ: Мм   ID: 5429910222  https://kaspi.kz/shop/p/elektrochainik-zy-303-chernyi-serebristyi-107912987/?c=471010000&sr=5&ref=shared_link
+2024-07-02 10:07:42    @zhakonastroika  ИМЯ: Мм   ID: 5429910222  https://kaspi.kz/shop/p/vafel-nitsa-proliss-pro-808-chernyi-105935489/?c=471010000&sr=6&ref=shared_link
+2024-07-02 10:08:00    @zhakonastroika  ИМЯ: Мм   ID: 5429910222  https://kaspi.kz/shop/p/asel-tt-23-krasnyi-2500566/?c=471010000&sr=11&ref=shared_link
+2024-07-02 10:08:25    @zhakonastroika  ИМЯ: Мм   ID: 5429910222  https://kaspi.kz/shop/p/vafel-nitsa-sokany-sk-907-chernyi-102604838/?c=471010000&sr=33&ref=shared_link
+2024-07-02 10:09:55    @  ИМЯ: 🧚🏻‍♀️   ID: 5096317319  /start
+2024-07-02 10:11:02    @  ИМЯ: 🧚🏻‍♀️   ID: 5096317319  https://kaspi.kz/shop/p/vafel-nitsa-sokany-sk-907-chernyi-102604838/?c=471010000&sr=33&ref=shared_link&maSource=dynamicLink
+2024-07-02 10:11:19    @  ИМЯ: 🧚🏻‍♀️   ID: 5096317319  https://kaspi.kz/shop/p/bosch-msm2650b-chernyi-3100958/?c=471010000&sr=44&ref=shared_link&maSource=dynamicLink
+2024-07-02 10:11:33    @  ИМЯ: 🧚🏻‍♀️   ID: 5096317319  https://kaspi.kz/shop/p/sokany-hjt-022-belyi-102372874/?c=471010000&sr=51&ref=shared_link&maSource=dynamicLink
+2024-07-02 10:11:45    @  ИМЯ: 🧚🏻‍♀️   ID: 5096317319  https://kaspi.kz/shop/p/elektrogril-sokany-sk-zg-8042-112966576/?c=471010000&sr=62&ref=shared_link&maSource=dynamicLink
+2024-07-02 10:52:22    @  ИМЯ: 🧚🏻‍♀️   ID: 5096317319  https://kaspi.kz/shop/p/emal-nabor-posudy-klubnika-sadovaja-ais-110t-emal-4-sht-103442013/?c=471010000&sr=3&qid=34cbf09f6842721e136b6eb09d41140b&ref=shared_link
+2024-07-02 10:52:48    @  ИМЯ: 🧚🏻‍♀️   ID: 5096317319  https://kaspi.kz/shop/p/vicalina-smeshannyi-nabor-vl0209-metall-9-v-1-101137809/?c=471010000&sr=9&qid=34cbf09f6842721e136b6eb09d41140b&ref=shared_link
+2024-07-02 10:53:02    @  ИМЯ: 🧚🏻‍♀️   ID: 5096317319  https://kaspi.kz/shop/p/vicalina-nabor-kastrjul-vl-385-stal-6-v-1-104229784/?c=471010000&sr=11&qid=34cbf09f6842721e136b6eb09d41140b&ref=shared_link
+2024-07-02 21:40:58    @  ИМЯ: 🧚🏻‍♀️   ID: 5096317319  https://kaspi.kz/shop/p/avtomat-san-li-toys-colt-68017648-105742646/?c=471010000&sr=3&qid=954b413ec22137aaf1e4435c6c8df9c3&ref=shared_link
+2024-07-02 21:57:25    @  ИМЯ: 🧚🏻‍♀️   ID: 5096317319  https://kaspi.kz/shop/p/xiaomi-redmi-power-bank-20000-mach-chernyi-100322086/?c=471010000&sr=2&qid=bf5bcdbfa2c66e53d93129736e054da7&ref=shared_link
+2024-07-02 22:02:38    @  ИМЯ: 🧚🏻‍♀️   ID: 5096317319  https://kaspi.kz/shop/p/muzykal-nyi-kovrik-huanger-piano-he0639-75x60-sm-101662678/?c=471010000&sr=52&ref=shared_link
+2024-07-02 22:03:23    @  ИМЯ: 🧚🏻‍♀️   ID: 5096317319  https://kaspi.kz/shop/p/podushka-igrushka-kot-baton-dlinii-kot-vysota-90-sm-seryi-102413264/?c=471010000&sr=57&ref=shared_link
+2024-07-02 23:20:52    @DarynErSa  ИМЯ: ᴅᴀʀʏɴ Rᴀᴇᴠ  ID: 1393943139  https://kaspi.kz/shop/p/mini-sumka-leather-country-123441-natural-naja-kozha-leopard-120774804/?c=750000000&m=17411224&sr=2&qid=822229189d630b23e7b04c97e642b426&ref=shared_link
+2024-07-03 11:37:52    @  ИМЯ: 🧚🏻‍♀️   ID: 5096317319  https://kaspi.kz/shop/p/samsung-vcc4520s3r-xev-krasnyi-3700926/?c=471010000&sr=1&qid=6d0c8a20c0a37251531650ea62fdf387&ref=shared_link
+2024-07-03 11:38:16    @  ИМЯ: 🧚🏻‍♀️   ID: 5096317319  https://kaspi.kz/shop/p/samsung-vcc4520s36-xev-sinii-3701056/?c=471010000&m=Bestprice&ref=shared_link
+2024-07-03 23:10:21    @dba_nurs  ИМЯ: Nursultan Aidarbekov  ID: 452639799  s
+2024-07-04 12:26:38    @kavabangv  ИМЯ: Лико   ID: 676827357  /start
+2024-07-04 12:26:38    @kavabangv  ИМЯ: Лико   ID: 676827357  Администратор!
+2024-07-04 12:26:43    @kavabangv  ИМЯ: Лико   ID: 676827357  https://kaspi.kz/shop/p/koljaska-progulochnaja-aya13400-chernyi-119908917/?c=750000000&sr=1&qid=b89c73b021085a57a12e759131024de8
+2024-07-04 17:45:21    @kavabangv  ИМЯ: Лико   ID: 676827357  https://kaspi.kz/shop/p/posudamania-maslenka-prjamougol-naja-3002bel-1-sht-keramika-104853108/?c=750000000&sr=1&qid=b781aa3e4ff1537f46d6e836f6109a2a
+2024-07-04 17:45:53    @kavabangv  ИМЯ: Лико   ID: 676827357  https://kaspi.kz/shop/p/posudamania-maslenka-prjamougol-naja-3002zhel-1-sht-keramika-104853122/?c=750000000&sr=3&qid=b781aa3e4ff1537f46d6e836f6109a2a
+2024-07-04 18:01:26    @kavabangv  ИМЯ: Лико   ID: 676827357  https://kaspi.kz/shop/p/vicalina-nabor-kuhonnyh-instrumentov-vl0202-16-sht-silikon-116434067/?c=750000000&sr=11&qid=79bcc3e3ed9718013eefaea9ba72725b
+2024-07-04 18:02:15    @kavabangv  ИМЯ: Лико   ID: 676827357  https://kaspi.kz/shop/p/vicalina-nabor-kuhonnyh-instrumentov-vl-1270-16-sht-silikon-116980183/?c=750000000&sr=6&qid=79bcc3e3ed9718013eefaea9ba72725b
+2024-07-04 18:43:40    @kavabangv  ИМЯ: Лико   ID: 676827357  https://kaspi.kz/shop/p/skovoroda-blinnaja-vicalina-vl0324-24-sm-granitnaja-kroshka-100634453/?c=750000000&sr=1&qid=985020fc9b9a9774cb0988c5a3489e8a
+2024-07-04 18:50:02    @kavabangv  ИМЯ: Лико   ID: 676827357  Администратор!
+2024-07-04 18:50:06    @kavabangv  ИМЯ: Лико   ID: 676827357  https://kaspi.kz/shop/p/sokany-sk-905-krasnyi-105771031/?c=750000000&sr=1&qid=dbe2bba51cee58fdd19795e7a7cd7f90
+2024-07-04 19:37:25    @kavabangv  ИМЯ: Лико   ID: 676827357  https://kaspi.kz/shop/p/baziator-133-zelenyi-103904221/?c=750000000&sr=1&qid=eede1461929e58b44a079f85bc274e32
+2024-07-04 19:38:22    @kavabangv  ИМЯ: Лико   ID: 676827357  https://kaspi.kz/shop/p/rjukzak-00033-seryi-107435367/?c=750000000&sr=1&qid=8af1d9a3f635965cdc77192710fa322d
+2024-07-04 20:25:49    @kavabangv  ИМЯ: Лико   ID: 676827357  https://kaspi.kz/shop/p/setka-165875-111463587/?c=750000000&sr=1&qid=480cd18d0a31c4db7885398eec7cac6e
+2024-07-04 20:27:02    @kavabangv  ИМЯ: Лико   ID: 676827357  https://kaspi.kz/shop/p/home-textile-komplekt-11-400x275-sm-4-sht-setka-veljur-104501412/?c=750000000&sr=6&qid=480cd18d0a31c4db7885398eec7cac6e
+2024-07-04 21:30:49    @kavabangv  ИМЯ: Лико   ID: 676827357  https://kaspi.kz/shop/p/nabor-organaizerov-beige-bezhevyi-8-sht-110607518/?c=750000000&sr=1&qid=8d9f9f4f28928cc5dde5aa7f2a95d783
+2024-07-04 21:31:39    @kavabangv  ИМЯ: Лико   ID: 676827357  https://kaspi.kz/shop/p/home-storage-nabor-organaizerov-pdroad65-sinii-7-sht-105269406/?c=750000000&sr=1&qid=73a1cc7a7b52d79b265fa68b4523158b
+2024-07-04 21:40:24    @kavabangv  ИМЯ: Лико   ID: 676827357  https://kaspi.kz/shop/p/nabor-kuhonnyh-instrumentov-865920-19-sht-nerzhavejuschaja-stal-silikon-bambuk-109458016/?c=750000000&sr=1&qid=4dc09f24b4faf28451b010fe01c1274b
+2024-07-05 09:40:46    @DarynErSa  ИМЯ: ᴅᴀʀʏɴ Rᴀᴇᴠ  ID: 1393943139  Администратор!
+2024-07-05 09:40:50    @DarynErSa  ИМЯ: ᴅᴀʀʏɴ Rᴀᴇᴠ  ID: 1393943139  https://kaspi.kz/shop/p/mini-sumka-miu-miu-ekokozha-chernyi-120870725/?maSource=dynamicLink&ref=shared_link
+2024-07-05 13:35:32    @kavabangv  ИМЯ: Лико   ID: 676827357  https://kaspi.kz/shop/p/magna-m20b7001-w-belyi-108426636/?c=750000000&sr=1&qid=310d496710502a3f9c3ffc9868c92591
+2024-07-05 13:38:26    @kavabangv  ИМЯ: Лико   ID: 676827357  https://kaspi.kz/shop/p/katherina-tortnitsa-l-1212-prjamougol-naja-1-sht-114956662/?c=750000000&sr=1&qid=1725e6784c5dbbc90cf317e8ce73820e
+2024-07-06 22:56:06    @ElmiraD  ИМЯ: Ельмира   ID: 742864067  https://kaspi.kz/shop/p/tp01-110325496/?c=351010000&ref=shared_link
+2024-07-07 01:19:26    @dba_nurs  ИМЯ: Nursultan Aidarbekov  ID: 452639799  s
+2024-07-08 01:24:32    @Dinsultan1  ИМЯ: Dinsultan   ID: 2032624044  /start
+2024-07-08 01:24:56    @Dinsultan1  ИМЯ: Dinsultan   ID: 2032624044  https://kaspi.kz/shop/p/funny-republic-mishka-2-6-metra-belyi-46-48-108282118/?c=750000000&hasVariants=true&ref=shared_link
+2024-07-08 01:25:34    @Dinsultan1  ИМЯ: Dinsultan   ID: 2032624044  https://kaspi.kz/shop/p/kamera-videonabljudenija-112529-16-rasshirenie-1280x960-109661546/?c=750000000&ref=shared_link
+2024-07-08 01:27:17    @Dinsultan1  ИМЯ: Dinsultan   ID: 2032624044  https://kaspi.kz/shop/p/matras-intex-64765-203x152x25-sm-nasos-vneshnii-100067553/?c=750000000&ref=shared_link
+2024-07-08 01:33:00    @Dinsultan1  ИМЯ: Dinsultan   ID: 2032624044  https://kaspi.kz/shop/p/sportleader-spl400-101511288/?c=750000000&m=Sportleader&ref=shared_link
+2024-07-12 13:15:39    @Evgenia170222  ИМЯ: Евгения Герасимова  ID: 5518062443  /start
+2024-07-12 13:19:44    @Evgenia170222  ИМЯ: Евгения Герасимова  ID: 5518062443  https://kaspi.kz/shop/p/drel--shurupovert-bosoh-bs-48-2a-109926629/?c=710000000&sr=9&ref=shared_link
+2024-07-12 13:20:54    @Evgenia170222  ИМЯ: Евгения Герасимова  ID: 5518062443  https://kaspi.kz/shop/p/shlifmashina-uglovaja-crown-ct13034-12500527/?c=710000000&sr=28&ref=shared_link
+2024-07-12 13:21:59    @Evgenia170222  ИМЯ: Евгения Герасимова  ID: 5518062443  https://kaspi.kz/shop/p/alteco-drel--shurupovert-cd-2110li-x2-30209-100086074/?c=710000000&sr=50&ref=shared_link
+2024-07-12 13:22:25    @Evgenia170222  ИМЯ: Евгения Герасимова  ID: 5518062443  https://kaspi.kz/shop/p/x-pert-otvertka-dvustoronnjaja-expscd16-160-mm-1-sht--102319843/?c=710000000&sr=68&ref=shared_link
+2024-07-12 13:22:58    @Evgenia170222  ИМЯ: Евгения Герасимова  ID: 5518062443  https://kaspi.kz/shop/p/resanta-svarochnyi-invertor-sai-220-mma--30000048/?c=710000000&sr=84&ref=shared_link
+2024-07-12 13:27:35    @Evgenia170222  ИМЯ: Евгения Герасимова  ID: 5518062443  https://kaspi.kz/shop/p/nabor-kosmetiki-dlja-uhoda-za-litsom-beauty-box-nabor-dekorativnoi-kosmetiki-dlja-zhenschin-118791150/?c=710000000&sr=12&qid=876bb0a25ce31664dfbb235962ce8376&ref=shared_link
+2024-07-12 13:29:53    @Evgenia170222  ИМЯ: Евгения Герасимова  ID: 5518062443  https://kaspi.kz/shop/p/block-zamok-ogranichitel-ztr-keyw-belyi-1-sht-105203798/?c=710000000&sr=14&ref=shared_link
+2024-07-12 13:31:37    @Evgenia170222  ИМЯ: Евгения Герасимова  ID: 5518062443  https://kaspi.kz/shop/p/podarochnyi-nabor-130227-predmetov-20-sht-115803972/?c=710000000&sr=35&ref=shared_link
+2024-07-12 13:40:53    @Evgenia170222  ИМЯ: Евгения Герасимова  ID: 5518062443  https://kaspi.kz/shop/p/ekspertlain-odnorazovye-salfetki-30h40-sm-40-g-100-sht-106564810/?ref=shared_link&maSource=dynamicLink
+2024-07-12 13:41:17    @Evgenia170222  ИМЯ: Евгения Герасимова  ID: 5518062443  https://kaspi.kz/shop/p/sumka-sportsteel-11312-141217-30-l-chernyi-108776998/?c=710000000&sr=1&qid=4e070e8df442b62a63b3c1be74a270fc&ref=shared_link
+2024-07-12 13:41:50    @Evgenia170222  ИМЯ: Евгения Герасимова  ID: 5518062443  https://kaspi.kz/shop/p/sumka-bag-tore-8224-ekokozha-30-l-109479143/?c=710000000&sr=8&qid=4e070e8df442b62a63b3c1be74a270fc&ref=shared_link
+2024-07-12 13:42:11    @Evgenia170222  ИМЯ: Евгения Герасимова  ID: 5518062443  https://kaspi.kz/shop/p/maika-ozkan-underwear-ozkan20575-chernyi-4-109010193/?c=710000000&sr=7&qid=4e070e8df442b62a63b3c1be74a270fc&hasVariants=true&ref=shared_link
+2024-07-12 13:44:39    @Evgenia170222  ИМЯ: Евгения Герасимова  ID: 5518062443  https://kaspi.kz/shop/p/knr-yjd01-183h60h0-8-sm-rozovyi-109274698/?c=710000000&sr=96&qid=4e070e8df442b62a63b3c1be74a270fc&ref=shared_link
+2024-07-12 13:45:44    @Evgenia170222  ИМЯ: Евгения Герасимова  ID: 5518062443  https://kaspi.kz/shop/p/yoga-mat-yz222802-183x61x0-6-sm-rozovyi-104362010/?c=710000000&sr=14&qid=2b9c78ab72819b7f5a55fb2999c4a19e&ref=shared_link
+2024-07-12 13:46:36    @Evgenia170222  ИМЯ: Евгения Герасимова  ID: 5518062443  https://kaspi.kz/shop/p/detskii-komod-al-ternativa-m8822-39x56x81-sm-mul-tikolor-110499232/?ref=shared_link
+2024-07-12 13:49:56    @Evgenia170222  ИМЯ: Евгения Герасимова  ID: 5518062443  https://kaspi.kz/shop/p/dlja-udalenija-katyshek-mijia-lint-remover-mqxjq01kl-belyi-100726504/?c=710000000&sr=1&qid=8a36c536aa97666098f7ebc06bd6be74&ref=shared_link
+2024-07-12 13:50:14    @Evgenia170222  ИМЯ: Евгения Герасимова  ID: 5518062443  https://kaspi.kz/shop/p/misuta-trimmer-dlja-strizhki-kids-115272076/?c=710000000&sr=10&qid=c2e955c4ab9cdf9a3cd5123782ece56b&ref=shared_link
+2024-07-12 13:52:45    @Evgenia170222  ИМЯ: Евгения Герасимова  ID: 5518062443  /admin
+2024-07-14 15:51:00    @dba_nurs  ИМЯ: Nursultan Aidarbekov  ID: 452639799  G
+2024-07-14 19:45:06    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  /start
+2024-07-14 19:45:34    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/mini-sumka-aer-224-natural-naja-kozha-belyi-119875967/?c=750000000&ref=shared_link
+2024-07-14 19:45:52    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/igrushka-mjalka-pop-it-5425265-mul-tikolor-117150256/?c=750000000&ref=shared_link
+2024-07-14 19:51:06    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/eva-prokladki-nabor-lechebnye-s-ionami-serebra-86-sht-113516020/?c=750000000&sr=132&ref=shared_link
+2024-07-14 20:52:40    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/rjukzak-travelcar-0000178-neilon-neopren-krasnyi-chernyi-117552957/?c=750000000&ref=shared_link
+2024-07-14 20:52:59    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/ght56-rozovyi-32-117489977/?c=750000000&ref=shared_link
+2024-07-14 20:53:21    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/sltn-chernyi-35-120375446/?c=750000000&m=30105275&ref=shared_link
+2024-07-14 20:57:15    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/dispenser-dlja-zubnoi-pasty-e-tech-uf-1-116036920/?c=750000000&ref=shared_link
+2024-07-14 20:57:44    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/florentina-avokado-shampun-600-ml-114787896/?c=750000000&ref=shared_link
+2024-07-14 20:58:19    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/compliment-pantenol-ohlazhdajuschii-aloe-vera-75-ml-102341765/?c=750000000&ref=shared_link
+2024-07-14 20:59:13    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/t210-kempingovaja-kolichestvo-mest-4-zelenyi-110961191/?c=750000000&ref=shared_link
+2024-07-14 20:59:38    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/17648092-317280-bezhevyi-112356837/?c=750000000&m=17648092&ref=shared_link
+2024-07-14 20:59:52    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/w-p-e-1668-goluboi-104796706/?c=750000000&m=17480191&ref=shared_link
+2024-07-14 21:00:23    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/jasper-208-haki-117615943/?c=750000000&m=30153756&ref=shared_link
+2024-07-14 21:00:50    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/deerma-dx118c-belyi-100825416/?c=750000000&ref=shared_link
+2024-07-14 22:24:19    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/skladnoi-30255606-tovar-44-120995991/?c=750000000&m=30255606&sr=1&ref=shared_link
+2024-07-14 22:24:41    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/grillver-pecheneg-35000001/?c=750000000&m=384003&sr=2&ref=shared_link
+2024-07-14 22:25:58    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/razbornyi-30090356-569371-114351909/?c=750000000&sr=3&ref=shared_link
+2024-07-15 12:11:36    @shakh_gani  ИМЯ: Гани   ID: 316656267  /start
+2024-07-15 12:11:48    @shakh_gani  ИМЯ: Гани   ID: 316656267  https://kaspi.kz/shop/p/nz-group-mishel-200-odnospal-naja-90x200-sm-s-matrasom-pod-jomnyi-mehanizm-bezhevyi-107284837/?c=750000000
+2024-07-15 12:15:20    @ElmiraD  ИМЯ: Ельмира   ID: 742864067  https://kaspi.kz/shop/p/venik-s-sovkom-204058-100-sm-115647230/?c=351010000&ref=shared_link
+2024-07-15 12:25:49    @shakh_gani  ИМЯ: Гани   ID: 316656267  /admin
+2024-07-15 12:26:00    @shakh_gani  ИМЯ: Гани   ID: 316656267  Администратор!
+2024-07-15 12:31:59    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/teclast-p85t-kids-8-djuim-4-gb-64-gb-rozovyi-115937618/?c=750000000&m=Nemo&ref=shared_link
+2024-07-15 12:32:34    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/farmstay-syvorotka-all-in-one-collagen-and-hyaluronic-acid-ampoule-anti-wrinkle-whitening-dlja-litsa-250-ml-100028087/?c=750000000&sr=1&qid=dc942a52edb64cbde6cdc187e13e2136&ref=shared_link
+2024-07-15 12:33:32    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/crome-bb-snail-cream-bb-krem-bezhevyi-50-ml-17500176/?c=750000000&ref=shared_link
+2024-07-15 12:33:59    @Nurgul_shakirova_s  ИМЯ: Нургуль Шакирова  ID: 1037868083  https://kaspi.kz/shop/p/bergamo-magic-snail-bb-cream-spf50-bb-krem-universal-nyi-50-ml-103642803/?c=750000000&ref=shared_link
+2024-07-15 13:17:04    @Dianaorazbaeva  ИМЯ: Diana   ID: 1422637060  /start
+2024-07-15 13:17:15    @Dianaorazbaeva  ИМЯ: Diana   ID: 1422637060  https://kaspi.kz/shop/p/penal-kosmetichka-better-life-special-pc467-zastezhka-molnija-belyi-110392483/?c=191010000&sr=1&qid=23ce02ac849b58595ecaf768f6bf3302&ref=shared_link
+2024-07-15 13:18:27    @Dianaorazbaeva  ИМЯ: Diana   ID: 1422637060  https://kaspi.kz/shop/p/better-life-special-blue-872252-zastezhka-molnija-mul-tikolor-109348727/?c=191010000&ref=shared_link
+2024-07-15 13:18:42    @Dianaorazbaeva  ИМЯ: Diana   ID: 1422637060  https://kaspi.kz/shop/p/rjukzak-heflashor-lx1119-eva-iskusstvennaja-kozha-chernyi-seryi-102648626/?c=191010000&ref=shared_link
+2024-07-15 13:19:45    @Dianaorazbaeva  ИМЯ: Diana   ID: 1422637060  https://kaspi.kz/shop/p/sumka-kross-bodi-queen-handbag-143605559-iskusstvennaja-kozha-metall-ekokozha-chernyi-belyi-109204987/?c=191010000&sr=1&qid=bc4d781e503359a9a0b826b77aaadc61&ref=shared_link
+2024-07-15 13:21:08    @Dianaorazbaeva  ИМЯ: Diana   ID: 1422637060  https://kaspi.kz/shop/p/mini-sumka-longchamp-480945-neilon-molochnyi-115299897/?c=191010000&sr=15&qid=bc4d781e503359a9a0b826b77aaadc61&ref=shared_link
+2024-07-15 13:21:46    @Dianaorazbaeva  ИМЯ: Diana   ID: 1422637060  https://kaspi.kz/shop/p/sumka-kross-bodi-110-ekokozha-bezhevyi-107623761/?c=191010000&sr=26&qid=bc4d781e503359a9a0b826b77aaadc61&ref=shared_link
+2024-07-15 13:22:51    @Dianaorazbaeva  ИМЯ: Diana   ID: 1422637060  https://kaspi.kz/shop/p/rjukzak-15378081-ids21090702-poliester-oksford-chernyi-109556758/?c=191010000&sr=1&qid=d25b85935d252357e7d5188381d29550&ref=shared_link
+2024-07-15 13:24:06    @Dianaorazbaeva  ИМЯ: Diana   ID: 1422637060  https://kaspi.kz/shop/p/rjukzak-shkol-nyi-dlja-devochek-top-bear-382816-tekstil-poliester-rozovyi-fioletovyi-110064671/?c=191010000&m=30250257&sr=1&qid=c2c778c18f1c45186497afbc42ddc1bc&ref=shared_link
+2024-07-15 13:24:32    @Dianaorazbaeva  ИМЯ: Diana   ID: 1422637060  https://kaspi.kz/shop/p/rjukzak-boulor-iskusstvennaja-kozha-bezhevyi-111475176/?c=191010000&sr=2&qid=c2c778c18f1c45186497afbc42ddc1bc&ref=shared_link
+2024-07-15 13:25:36    @Dianaorazbaeva  ИМЯ: Diana   ID: 1422637060  https://kaspi.kz/shop/p/rjukzak-karlos-marconi-km08897-tekstil-neilon-chernyi-108699536/?c=191010000&sr=2&qid=3624e4d9d4bd3c480485a6aaa2e19f43&ref=shared_link
+2024-07-15 13:28:57    @Dianaorazbaeva  ИМЯ: Diana   ID: 1422637060  https://kaspi.kz/shop/p/klassicheskii-termos-0-5-l-1784g78599-sinii-106551398/?c=191010000&sr=4&qid=2ccde0f71d5415df5e29f06699ca5f7a&ref=shared_link
+2024-07-15 13:31:25    @Dianaorazbaeva  ИМЯ: Diana   ID: 1422637060  https://kaspi.kz/shop/p/ideal-46042-42-mm-116148987/?c=191010000&sr=2&qid=a48d55f7529b6f31fe5e49944860b5e4&ref=shared_link
+2024-07-15 13:32:01    @Dianaorazbaeva  ИМЯ: Diana   ID: 1422637060  https://kaspi.kz/shop/p/pechat-bao-ding-1113-114957242/?c=191010000&sr=4&qid=a48d55f7529b6f31fe5e49944860b5e4&ref=shared_link
+2024-07-15 13:32:50    @Dianaorazbaeva  ИМЯ: Diana   ID: 1422637060  https://kaspi.kz/shop/p/faksimile-trodat-printy-4912-116186147/?c=191010000&sr=1&qid=f35c98218d8d30b4894b1ca369f5649c&ref=shared_link
+2024-07-15 21:13:27    @Dianaorazbaeva  ИМЯ: Diana   ID: 1422637060  https://kaspi.kz/shop/p/better-life-special-black-410620-zastezhka-molnija-chernyi-109348731/?c=191010000&ref=shared_link
+2024-07-15 21:14:29    @Dianaorazbaeva  ИМЯ: Diana   ID: 1422637060  https://kaspi.kz/shop/p/sumka-kross-bodi-7190-haki-iskusstvennaja-kozha-haki-108139513/?c=191010000&ref=shared_link
+2024-07-15 21:15:46    @Dianaorazbaeva  ИМЯ: Diana   ID: 1422637060  https://kaspi.kz/shop/p/sumka-kross-bodi-7190-haki-iskusstvennaja-kozha-haki-108139513/?c=191010000&ref=shared_link
+2024-07-15 21:16:10    @Dianaorazbaeva  ИМЯ: Diana   ID: 1422637060  Администратор!
+2024-07-16 22:48:47    @ElmiraD  ИМЯ: Ельмира   ID: 742864067  https://kaspi.kz/shop/p/5455-35h20x15-sm-belyi-116891113/?c=351010000&sr=4&qid=729c173e0dbac29b0e3aa8d9abf4ed19&ref=shared_link
+2024-07-17 23:41:19    @DarynErSa  ИМЯ: ᴅᴀʀʏɴ Rᴀᴇᴠ  ID: 1393943139  Администратор!
+2024-07-17 23:41:23    @DarynErSa  ИМЯ: ᴅᴀʀʏɴ Rᴀᴇᴠ  ID: 1393943139  https://kaspi.kz/shop/p/barsetka-chandarah-lt-07-iskusstvennaja-kozha-chernyi-sinii-105755917/?c=750000000&ref=shared_link
+2024-07-18 19:26:00    @Alimmzhankk  ИМЯ: Arriva   ID: 693284864  /start
+2024-07-18 19:26:18    @Alimmzhankk  ИМЯ: Arriva   ID: 693284864  https://kaspi.kz/shop/p/hauck-hauck-sleep-n-play-center-stars-manezh-krovatka-zvezdy-seryi-115847649/?c=511010000&m=Kiddi&sr=17&qid=16d27465e2e56e240cadf297c4705145&ref=shared_link
+2024-07-18 19:26:44    @Alimmzhankk  ИМЯ: Arriva   ID: 693284864  https://kaspi.kz/shop/p/manezh-krovat-tomix-lullaby-01-53114-seryi-106614701/?c=511010000&sr=31&qid=16d27465e2e56e240cadf297c4705145&ref=shared_link
+2024-07-18 19:27:50    @Alimmzhankk  ИМЯ: Arriva   ID: 693284864  https://kaspi.kz/shop/p/chemodan-xiaomi-ninetygo-lightweight-luggage-size-20-35-l-dark-night-chernyi-2053-black-104787659/?c=511010000&m=Nemo&sr=5&qid=4c6966c5b41dae108b77aef7ac169e34&ref=shared_link
+2024-07-18 19:28:18    @Alimmzhankk  ИМЯ: Arriva   ID: 693284864  https://kaspi.kz/shop/p/chemodan-fashion-ii-gl-s-polikarbonat-abs-plastik-38-l-zelenyi-103523665/?c=511010000&sr=8&qid=4c6966c5b41dae108b77aef7ac169e34&ref=shared_link
+2024-07-18 19:29:05    @Alimmzhankk  ИМЯ: Arriva   ID: 693284864  https://kaspi.kz/shop/p/retro-game-stick-m8-15000-igr-2-besprovodnyh-dzhoistika-110314632/?c=511010000&sr=1&qid=7c1194bdef1df9f0ebcd0f73b771ba1d&ref=shared_link
+2024-07-18 19:29:22    @Alimmzhankk  ИМЯ: Arriva   ID: 693284864  https://kaspi.kz/shop/p/retro-game-stick-m8-10000-igr-2-besprovodnyh-dzhoistika-105215362/?c=511010000&sr=2&qid=7c1194bdef1df9f0ebcd0f73b771ba1d&ref=shared_link
+2024-07-18 19:30:07    @Alimmzhankk  ИМЯ: Arriva   ID: 693284864  https://kaspi.kz/shop/p/deerma-dx700-belyi-3701383/?c=511010000&sr=1&qid=833bcc2bb75005a48bc75c4c99e0858e&ref=shared_link
+2024-07-18 19:31:09    @Alimmzhankk  ИМЯ: Arriva   ID: 693284864  https://kaspi.kz/shop/p/karcher-vc-3-premium-belyi-3700709/?c=511010000&sr=5&qid=833bcc2bb75005a48bc75c4c99e0858e&ref=shared_link
+2024-07-18 19:37:41    @Alimmzhankk  ИМЯ: Arriva   ID: 693284864  https://kaspi.kz/shop/p/komplekt-chemodanov-fashion-ii-tr-polikarbonat-230-l-grafit-108616923/?c=511010000&sr=35&qid=9cc8d3aadd813e5316b79bfda8259727&ref=shared_link
+2024-07-18 19:42:40    @Alimmzhankk  ИМЯ: Arriva   ID: 693284864  Администратор!
+2024-07-18 19:42:45    @Alimmzhankk  ИМЯ: Arriva   ID: 693284864  https://kaspi.kz/shop/p/home-storage-otdel-nostojaschaja-pdoth12-metall-plastik-derevo-110882772/?c=511010000&sr=66&ref=shared_link
+2024-07-19 03:15:26    @  ИМЯ: Nura   ID: 1189671104  /start
+2024-07-19 03:15:29    @  ИМЯ: Nura   ID: 1189671104  Администратор!
+2024-07-19 03:15:42    @  ИМЯ: Nura   ID: 1189671104  автоаксесуар
+2024-07-19 03:16:05    @  ИМЯ: Nura   ID: 1189671104  https://kaspi.kz/shop/p/nabor-avtomobil-nyi-142-v-1-tavsmetla-tm-s142-110555194/?c=750000000&m=30126722&ref=shared_link
+2024-07-19 03:16:59    @  ИМЯ: Nura   ID: 1189671104  https://kaspi.kz/shop/p/bt-speaker-zqs-6202-chernyi-101929583/?c=750000000&ref=shared_link
+2024-07-19 03:17:39    @  ИМЯ: Nura   ID: 1189671104  https://kaspi.kz/shop/p/marshall-major-iv-chernyi-102138144/?c=750000000&ref=shared_link
+2024-07-19 03:18:03    @  ИМЯ: Nura   ID: 1189671104  https://kaspi.kz/shop/p/axe-drel--shurupovert-ax-0407-110607737/?c=750000000&ref=shared_link
+2024-07-19 03:18:30    @  ИМЯ: Nura   ID: 1189671104  https://kaspi.kz/shop/p/kvartsevye-casio-mtp-1374d-1avdf-stal--21401209/?c=750000000&ref=shared_link
+2024-07-19 03:20:04    @  ИМЯ: Nura   ID: 1189671104  https://kaspi.kz/shop/p/kvartsevye-casio-parnye-chasy-casio-nerzhavejuschaja-stal--115849559/?c=750000000&m=14649005&sr=27&qid=79ce0d67f74a661741b7f8f3097bcc7b&ref=shared_link
+2024-07-19 03:20:24    @  ИМЯ: Nura   ID: 1189671104  https://kaspi.kz/shop/p/kvartsevye-casio-db-360-1adf-plastik-stal--100085221/?c=750000000&m=1004011&sr=1&qid=79ce0d67f74a661741b7f8f3097bcc7b&ref=shared_link
+2024-07-19 03:21:03    @  ИМЯ: Nura   ID: 1189671104  https://kaspi.kz/shop/p/bassein-naduvnoi-665048-210x140x45-sm-112203516/?c=750000000&sr=2&ref=shared_link
+2024-07-19 03:21:28    @  ИМЯ: Nura   ID: 1189671104  https://kaspi.kz/shop/p/bassein-karkasnyi-bestway-56984-305x305x100-sm-100280918/?c=750000000&sr=12&ref=shared_link
+2024-07-19 03:22:33    @  ИМЯ: Nura   ID: 1189671104  https://kaspi.kz/shop/p/nabor-avtomobil-nyi-53-v-1-cr-v-828749163-106323343/?c=750000000&ref=shared_link
+2024-07-19 03:23:03    @  ИМЯ: Nura   ID: 1189671104  https://kaspi.kz/shop/p/glass-ware-nabor-bokalov-grafit-29052022-steklo-105008087/?c=750000000&ref=shared_link
+2024-07-19 03:26:18    @  ИМЯ: Nura   ID: 1189671104  https://kaspi.kz/shop/p/apple-20w-usb-c-power-adapter-apple-usb-c---lightning-1-m-101103131/?c=750000000&ref=shared_link
+2024-07-19 03:27:07    @  ИМЯ: Nura   ID: 1189671104  https://kaspi.kz/shop/p/technoboom-apple-kit-pd-30w-belyi-115562708/?c=750000000&sr=4&qid=79442bbe6fa766bcd63b5b1bfebc034b&ref=shared_link
+2024-07-19 03:28:35    @  ИМЯ: Nura   ID: 1189671104  https://kaspi.kz/shop/p/avtomobil-naja-vizitka-perfeo-105987-chernyi-104530784/?c=750000000&sr=3&ref=shared_link
+2024-07-19 03:29:21    @  ИМЯ: Nura   ID: 1189671104  https://kaspi.kz/shop/p/add-power-podsvetka-44596588-116866156/?c=750000000&m=18601124&sr=1&ref=shared_link
+2024-07-19 03:30:02    @  ИМЯ: Nura   ID: 1189671104  https://kaspi.kz/shop/p/apple-airpods-pro-with-lightning-belyi-4804718/?c=750000000&m=285001&sr=2&ref=shared_link
+2024-07-19 03:30:12    @  ИМЯ: Nura   ID: 1189671104  https://kaspi.kz/shop/p/apple-airpods-pro-with-lightning-belyi-4804718/?c=750000000&m=285001&sr=2&ref=shared_link
+2024-07-19 14:48:29    @DarynErSa  ИМЯ: ᴅᴀʀʏɴ Rᴀᴇᴠ  ID: 1393943139  https://kaspi.kz/shop/p/barsetka-povsednevnaja-iskusstvennaja-kozha-natural-nyi-veljur-chernyi-belyi-120565089/?c=750000000&ref=shared_link
+2024-07-19 23:12:13    @DarynErSa  ИМЯ: ᴅᴀʀʏɴ Rᴀᴇᴠ  ID: 1393943139  https://kaspi.kz/shop/p/1fit-12-mesjatsev-101420232/?c=750000000&ref=shared_link
+2024-07-21 10:16:37    @A05dara  ИМЯ: A05dara   ID: 464360741  /start
+2024-07-21 13:26:56    @Timka133  ИМЯ: Тамерлан   ID: 807993345  /start
+2024-07-21 13:27:00    @Timka133  ИМЯ: Тамерлан   ID: 807993345  https://kaspi.kz/shop/p/noski-madame-chantal-chmd-ch71117-belyi-chernyi-seryi-36-41-108174197/?c=750000000&sr=2&qid=bf7980f2241cf7176bd5712ed77e54df&ref=shared_link
+2024-07-21 13:27:25    @Timka133  ИМЯ: Тамерлан   ID: 807993345  https://kaspi.kz/shop/p/noski-cotton-0225678-mul-tikolor-36-42-108703226/?c=750000000&sr=1&qid=bf7980f2241cf7176bd5712ed77e54df&ref=shared_link
+2024-07-21 13:27:55    @Timka133  ИМЯ: Тамерлан   ID: 807993345  https://kaspi.kz/shop/p/noski-limax-ip-t-r-ambai-chernyi-41-43-118707057/?c=750000000&sr=4&qid=bf7980f2241cf7176bd5712ed77e54df&ref=shared_link
+2024-07-21 13:29:06    @Timka133  ИМЯ: Тамерлан   ID: 807993345  https://kaspi.kz/shop/p/noski-iq-iqs-belyi-40-45-104525423/?c=750000000&m=17968198&sr=4&ref=shared_link
+2024-07-21 13:32:13    @Timka133  ИМЯ: Тамерлан   ID: 807993345  https://kaspi.kz/shop/p/apple-iphone-15-pro-128gb-dual-sim-belyi-114790416/?c=750000000&m=15847194&sr=1&ref=shared_link
+2024-07-21 13:33:40    @Timka133  ИМЯ: Тамерлан   ID: 807993345  https://kaspi.kz/shop/p/apple-iphone-15-128gb-chernyi-113137790/?c=750000000&sr=1&ref=shared_link
+2024-07-21 13:43:29    @Timka133  ИМЯ: Тамерлан   ID: 807993345  Администратор!
+2024-07-21 13:43:32    @Timka133  ИМЯ: Тамерлан   ID: 807993345  https://kaspi.kz/shop/p/apple-20w-usb-c-power-adapter-belyi-100984093/?c=750000000&sr=31&ref=shared_link
+2024-07-21 20:56:35    @  ИМЯ: Ерболат Лесбек  ID: 5643406552  /start
+2024-07-21 20:56:46    @  ИМЯ: Ерболат Лесбек  ID: 5643406552  https://kaspi.kz/shop/p/dispenser-001002-plastik-112866063/?maSource=dynamicLink&ref=shared_link
+2024-07-21 20:56:57    @  ИМЯ: Ерболат Лесбек  ID: 5643406552  Да
+2024-07-21 20:57:08    @  ИМЯ: Ерболат Лесбек  ID: 5643406552  https://kaspi.kz/shop/p/dispenser-001002-plastik-112866063/?maSource=dynamicLink&ref=shared_link
+2024-07-21 20:57:34    @  ИМЯ: Ерболат Лесбек  ID: 5643406552  Администратор!
+2024-07-21 20:57:44    @  ИМЯ: Ерболат Лесбек  ID: 5643406552  https://kaspi.kz/shop/p/dispenser-001002-plastik-112866063/?maSource=dynamicLink&ref=shared_link
+2024-07-21 20:57:48    @  ИМЯ: Ерболат Лесбек  ID: 5643406552  Да
+2024-07-22 13:03:19    @  ИМЯ: Merey Kural  ID: 1023099796  /start
+2024-07-22 13:03:26    @  ИМЯ: Merey Kural  ID: 1023099796  Администратор!
+2024-07-22 13:03:43    @  ИМЯ: Merey Kural  ID: 1023099796  Администратор!
+2024-07-22 13:38:34    @  ИМЯ: Merey Kural  ID: 1023099796  Чехол Nillkin для Apple iPhone 13
+2024-07-22 16:12:03    @Alimmzhankk  ИМЯ: Arriva   ID: 693284864  https://kaspi.kz/shop/p/dom-decor-podstavka-pd-00001221-nerzhavejuschaja-stal-abs-plastik-108315993/?c=511010000&ref=shared_link
+2024-07-22 17:11:23    @Alimmzhankk  ИМЯ: Arriva   ID: 693284864  https://kaspi.kz/shop/p/tecbot-s3-pro-tl-02t-belyi-112693094/?c=511010000&m=17347695&sr=2&ref=shared_link
+2024-07-22 17:15:00    @Alimmzhankk  ИМЯ: Arriva   ID: 693284864  https://kaspi.kz/shop/p/tecbot-s3-pro-tl-02t-belyi-112693094/?c=511010000&m=17347695&sr=2&ref=shared_link
+2024-07-23 14:44:56    @aseldizim  ИМЯ: Asel Dizim   ID: 551371383  /start
+2024-07-23 14:45:20    @aseldizim  ИМЯ: Asel Dizim   ID: 551371383  Администратор!
+2024-07-23 14:46:51    @aseldizim  ИМЯ: Asel Dizim   ID: 551371383  https://kaspi.kz/shop/p/aaa-kompakt-pk-d4-81x15x27-sm-belyi-110810653/?c=151010000&sr=1&qid=10fc53e7107fef4de42b4d2ba82fdf42&ref=shared_link
+2024-07-23 16:46:06    @  ИМЯ: Almaz Boken  ID: 1066332894  /start
+2024-07-23 16:47:32    @  ИМЯ: Almaz Boken  ID: 1066332894  https://kaspi.kz/shop/p/izari-aventus-duhi-parfum-50-ml-dlja-muzhchin-101761394/?c=750000000&m=Izariperfume&sr=1&qid=024f774168b5f55cc68883c67cd1b38a&ref=shared_link
+2024-07-23 16:48:12    @  ИМЯ: Almaz Boken  ID: 1066332894  https://kaspi.kz/shop/p/zoloto-rossii-570007023-dlina-55-sm-ves-4-23-g-zoloto-pletenie-bismark-108406609/?c=750000000&sr=1&qid=b31be69acd485c84db8677017c04613c&ref=shared_link
+2024-07-23 16:48:50    @  ИМЯ: Almaz Boken  ID: 1066332894  https://kaspi.kz/shop/p/zoloto-rossii-162466-dlina-55-sm-ves-7-5-g-zoloto-pletenie-bismark-112875548/?c=750000000&sr=4&qid=b31be69acd485c84db8677017c04613c&ref=shared_link
+2024-07-23 16:49:49    @  ИМЯ: Almaz Boken  ID: 1066332894  https://kaspi.kz/shop/p/dior-sauvage-parfjumernaja-voda-edp-60-ml-17302960/?c=750000000&sr=1&qid=024f774168b5f55cc68883c67cd1b38a&ref=shared_link
+2024-07-23 16:50:40    @  ИМЯ: Almaz Boken  ID: 1066332894  Администратор!
+2024-07-23 16:50:43    @  ИМЯ: Almaz Boken  ID: 1066332894  https://kaspi.kz/shop/p/ab-aij024-ves-10-7-g-zoloto-fianit-121455758/?c=750000000&m=18735126&sr=1&qid=6c0c16e6b129c3a1edad234c69541c34&ref=shared_link
+2024-07-23 16:51:01    @  ИМЯ: Almaz Boken  ID: 1066332894  https://kaspi.kz/shop/p/kamillla-gold-kg-xw2j0q24met2245-ves-16-35-g-zoloto-bez-vstavok-107179539/?c=750000000&m=30042714&sr=2&qid=6c0c16e6b129c3a1edad234c69541c34&ref=shared_link
+2024-07-23 16:51:19    @  ИМЯ: Almaz Boken  ID: 1066332894  https://kaspi.kz/shop/p/lucente-ts050121-55-dlina-55-sm-ves-5-7-g-zoloto-pletenie-nonna-26300079/?c=750000000&m=12640000&sr=6&qid=6c0c16e6b129c3a1edad234c69541c34&ref=shared_link
+2024-07-23 19:20:23    @DarynErSa  ИМЯ: ᴅᴀʀʏɴ Rᴀᴇᴠ  ID: 1393943139  https://kaspi.kz/shop/p/kvartsevye-beverly-hills-polo-club-bp3211x-377-nerzhavejuschaja-stal--108446292/?c=750000000&ref=shared_link
+2024-07-24 12:35:20    @aseldizim  ИМЯ: Asel Dizim   ID: 551371383  Администратор!
+2024-07-24 12:35:23    @aseldizim  ИМЯ: Asel Dizim   ID: 551371383  https://kaspi.kz/shop/p/terka-16804090-538742293-derevo-nerzh-stal--117739163/?c=151010000&sr=1&qid=d2cba2f9b727703f81ad51646c38fb8c&ref=shared_link
+2024-07-25 00:07:54    @arailym_amanbaiqyzy  ИМЯ: Арайлым Тынысбек  ID: 543908341  /start
+2024-07-25 00:08:03    @arailym_amanbaiqyzy  ИМЯ: Арайлым Тынысбек  ID: 543908341  Администратор!
+2024-07-25 00:09:02    @arailym_amanbaiqyzy  ИМЯ: Арайлым Тынысбек  ID: 543908341  /start
+2024-07-25 00:09:45    @arailym_amanbaiqyzy  ИМЯ: Арайлым Тынысбек  ID: 543908341  https://kaspi.kz
+2024-07-25 00:11:22    @arailym_amanbaiqyzy  ИМЯ: Арайлым Тынысбек  ID: 543908341  /start
+2024-07-25 00:11:26    @arailym_amanbaiqyzy  ИМЯ: Арайлым Тынысбек  ID: 543908341  https://kaspi.kz/shop/p/mini-fan-cx0018-goluboi-120878748/?c=511010000&sr=2&qid=46274c2880068c6579047714ecabd53a&ref=shared_link
+2024-07-25 17:10:09    @kromkaka  ИМЯ: kromka   ID: 5589431905  /start
+2024-07-25 17:10:27    @kromkaka  ИМЯ: kromka   ID: 5589431905  https://kaspi.kz/shop/p/komplekt-posudy-home-m12665677-500-ml-silikon-zelenyi-110689916/?c=710000000&sr=1&qid=d1c18099a2a068a91d8f7c5f6fc14846&ref=shared_link
+2024-07-25 17:10:52    @kromkaka  ИМЯ: kromka   ID: 5589431905  /admin
+2024-07-25 17:14:18    @kromkaka  ИМЯ: kromka   ID: 5589431905  https://kaspi.kz/shop/p/sorter-nabor-razvivajuschih-igrushek-derevo-108447545/?c=710000000&sr=1&ref=shared_link
+2024-07-25 17:19:19    @kromkaka  ИМЯ: kromka   ID: 5589431905  Администратор!
+2024-07-25 17:19:22    @kromkaka  ИМЯ: kromka   ID: 5589431905  https://kaspi.kz/shop/p/lis-nik-930442-detalei-13000-sht-113160905/?c=710000000&m=30289098&sr=2&ref=shared_link
+2024-07-25 17:21:51    @kromkaka  ИМЯ: kromka   ID: 5589431905  https://kaspi.kz/shop/p/mjagkaja-igrushka-joypay-mishka-vysota-200-sm-belyi-104016109/?c=710000000&m=1039011&sr=6&ref=shared_link
+2024-07-25 23:03:31    @beisek_I  ИМЯ: Mereyim   ID: 1145112046  /start
+2024-07-25 23:03:37    @beisek_I  ИМЯ: Mereyim   ID: 1145112046  Администратор!
+2024-07-26 11:23:02    @makkooq0  ИМЯ: Амина   ID: 1262576003  /start
+2024-07-26 11:23:34    @makkooq0  ИМЯ: Амина   ID: 1262576003  https://kaspi.kz/shop/p/thermomix-tm6-belyi-101073636/?c=750000000&sr=1&qid=c9ab477696738f2c71b161b5543378cf&ref=shared_link&ut=2
+2024-07-26 22:06:26    @mar1yamkka  ИМЯ: Мариям   ID: 1009942090  https://kaspi.kz/shop/p/azija-brend-3-in-1-chernyi-goluboi-110191049/?c=750000000&sr=1&qid=0e03821c38cbb88b65fbdc1611d88e71&ref=shared_link
+2024-07-27 23:59:55    @mar1yamkka  ИМЯ: Мариям   ID: 1009942090  https://kaspi.kz/shop/p/uakeen-nabor-kastrjul-234567-aljuminii-10-v-1-107370865/?c=750000000&sr=20&qid=caf5ac8e4d10c1ce9fbf03b83f6353c1&ref=shared_link
+2024-07-28 10:19:39    @mar1yamkka  ИМЯ: Мариям   ID: 1009942090  https://kaspi.kz/shop/p/koljaska-universal-naja-2-v-1-pegas-pg0411-grafit-114070148/?c=750000000&sr=1&qid=c485e1cb76495668dd7c572c9ce5ba66&ref=shared_link
+2024-07-29 10:21:20    @aisulukarimova  ИМЯ: Aisulu Karimova  ID: 646910606  /start
+2024-07-29 10:26:04    @aisulukarimova  ИМЯ: Aisulu Karimova  ID: 646910606  https://kaspi.kz/shop/p/teplitsa-30231097-353883728-60x60x120-sm-plenka-120154027/?c=710000000&sr=49&qid=bfc3659a52613d098c65e73cefe027f5&ref=shared_link
+2024-07-29 10:26:33    @aisulukarimova  ИМЯ: Aisulu Karimova  ID: 646910606  https://kaspi.kz/shop/p/bloknot-planer-planirovschik-bjudzheta-blaknot-planirovschik-bjudzheta-a6-rozovyi-a6-29-l-sinii-korichnevyi-116428771/?c=710000000&ref=shared_link
+2024-07-29 16:49:56    @  ИМЯ: Нурайка🤍   ID: 813536644  /start
+2024-07-29 16:49:58    @  ИМЯ: Нурайка🤍   ID: 813536644  Администратор!
+2024-07-29 16:51:27    @  ИМЯ: Нурайка🤍   ID: 813536644  Администратор!
+2024-08-01 00:52:39    @kromkaka  ИМЯ: kromkа   ID: 5589431905  https://kaspi.kz/shop/p/xiaomi-xiao-ai-speaker-play-belyi-100824868/?c=710000000&m=17542649&sr=2&qid=cbfbf870004060b4844c6256207c222c&ref=shared_link
