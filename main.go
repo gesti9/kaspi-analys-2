@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"log"
 	"strconv"
+	"strings"
 	"sync"
 	"work/data"
 	"work/logs"
@@ -50,6 +51,7 @@ func main() {
 
 			// Читаем текущее значение из файла
 			countStr := data.ReadFromFile("data/users/" + strconv.Itoa(int(update.Message.Chat.ID)) + ".txt")
+			countStr = strings.TrimSpace(countStr) // Удаляем пробелы и символы новой строки
 			count, err := strconv.Atoi(countStr)
 			if err != nil {
 				log.Printf("Ошибка при преобразовании строки в число: %v", err)
