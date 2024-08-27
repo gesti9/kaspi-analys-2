@@ -2,10 +2,12 @@ package main
 
 import (
 	"fmt"
+	"log"
 	"regexp"
 	"strconv"
 	"time"
 
+	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 	"github.com/tebeka/selenium"
 	"github.com/tebeka/selenium/chrome"
 )
@@ -71,8 +73,40 @@ func Price(url string) (int, error) {
 	return res, nil
 }
 
+type Client struct {
+	bot *tgbotapi.BotAPI
+}
+
+func (c *Client) SendMessage(text string, chatId int64) error {
+	msg := tgbotapi.NewMessage(chatId, text)
+	msg.ParseMode = "HTML"
+	_, err := c.bot.Send(msg)
+	return err
+}
+
+func New(apiKey string) *Client {
+	bot, err := tgbotapi.NewBotAPI(apiKey)
+	if err != nil {
+		log.Panic(err)
+	}
+
+	return &Client{
+		bot: bot,
+	}
+}
+
 func main() {
-	url := "https://kaspi.kz/shop/p/elektrochainik-bereke-br-810-seryi-109981423/?c=710000000"
-	price, _ := Price(url)
-	fmt.Println(price + 1000)
+	apiKey := "6831494639:AAGkAcG9BgZYarNfcviU-SsH3hvnadcLjkE"
+	client := New(apiKey)
+
+	// Замените на реальный chatId
+	chatId := int64(1639485505)
+	message := "Привет! Для того чтобы купить подписку напишите Админу @dba_nurs "
+
+	err := client.SendMessage(message, chatId)
+	if err != nil {
+		log.Fatalf("Ошибка при отправке сообщения: %v", err)
+	} else {
+		log.Println("Сообщение успешно отправлено!")
+	}
 }
