@@ -80,11 +80,7 @@ func main() {
 					result, _ := service.Output(update.Message.Text)
 					num, _ := strconv.Atoi(result)
 
-					if count == 10000 {
-						msg := tgbotapi.NewMessage(update.Message.Chat.ID, "Для продолжения оплатите 500 тенге для доступа на неограниченное количество запросов на 1 месяц, для оплаты напишите Администратору!")
-						msg.ReplyToMessageID = update.Message.MessageID
-						bot.Send(msg)
-					} else if num == 0 {
+					if num == 0 {
 						msg := tgbotapi.NewMessage(update.Message.Chat.ID, "0 продаж!")
 						msg.ReplyToMessageID = update.Message.MessageID
 						bot.Send(msg)

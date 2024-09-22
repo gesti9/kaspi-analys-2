@@ -1219,3 +1219,9 @@ exit status 1
 2024-09-22 23:31:14    @A_01010011  ИМЯ: N A  ID: 452639799  Vv
 2024-09-22 23:37:06    @A_01010011  ИМЯ: N A  ID: 452639799  Jj
 2024-09-22 23:37:52    @A_01010011  ИМЯ: N A  ID: 452639799  https://kaspi.kz/shop/p/lofery-fashion-chernyi-10826248b/?c=710000000
+2024-09-22 23:50:53    @A_01010011  ИМЯ: N A  ID: 452639799  Hdh
+2024-09-22 23:50:58    @A_01010011  ИМЯ: N A  ID: 452639799  Hhshs
+2024-09-22 23:51:25    @A_01010011  ИМЯ: N A  ID: 452639799  Vbh
+2024-09-22 23:51:30    @A_01010011  ИМЯ: N A  ID: 452639799  https://kaspi.kz/shop/p/lofery-fashion-chernyi-10826248b/?c=710000000
+2024-09-22 23:55:59    @A_01010011  ИМЯ: N A  ID: 452639799  https://kaspi.kz/shop/p/lofery-fashion-chernyi-10826248b/?c=710000000
+2024-09-23 00:11:30    @A_01010011  ИМЯ: N A  ID: 452639799  https://kaspi.kz/shop/p/futbolka-ala000001-chernyi-46-111224583/?c=710000000&hasVariants=true&ref=shared_link
