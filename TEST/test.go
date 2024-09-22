@@ -99,14 +99,16 @@ func main() {
 	apiKey := "6831494639:AAGkAcG9BgZYarNfcviU-SsH3hvnadcLjkE"
 	client := New(apiKey)
 
-	// Замените на реальный chatId
-	chatId := int64(1639485505)
-	message := "Привет! Для того чтобы купить подписку напишите Админу @dba_nurs "
+	chatId := []int64{}
+	message := "Привет! Открывается канал где будут самые популярные и топовые товары в Kaspi, вступай https://t.me/kaspitrends "
 
-	err := client.SendMessage(message, chatId)
-	if err != nil {
-		log.Fatalf("Ошибка при отправке сообщения: %v", err)
-	} else {
-		log.Println("Сообщение успешно отправлено!")
+	for _, chatId := range chatId {
+		err := client.SendMessage(message, chatId)
+		if err != nil {
+			log.Fatalf("Ошибка при отправке сообщения в чат %d: %v", chatId, err)
+		} else {
+			log.Printf("Сообщение успешно отправлено в чат %d!", chatId)
+		}
+		time.Sleep(1 * time.Second) // Задержка между отправками сообщений (например, 1 секунда)
 	}
 }

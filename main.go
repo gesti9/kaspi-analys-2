@@ -52,11 +52,7 @@ func main() {
 			// Читаем текущее значение из файла
 			countStr := data.ReadFromFile("data/users/" + strconv.Itoa(int(update.Message.Chat.ID)) + ".txt")
 			countStr = strings.TrimSpace(countStr) // Удаляем пробелы и символы новой строки
-			count, err := strconv.Atoi(countStr)
-			if err != nil {
-				log.Printf("Ошибка при преобразовании строки в число: %v", err)
-				count = 0 // если произошла ошибка, устанавливаем начальное значение 0
-			}
+			count, _ := strconv.Atoi(countStr)
 
 			switch update.Message.Text {
 			case "/start":
@@ -84,7 +80,7 @@ func main() {
 					result, _ := service.Output(update.Message.Text)
 					num, _ := strconv.Atoi(result)
 
-					if count == 3 {
+					if count == 10000 {
 						msg := tgbotapi.NewMessage(update.Message.Chat.ID, "Для продолжения оплатите 500 тенге для доступа на неограниченное количество запросов на 1 месяц, для оплаты напишите Администратору!")
 						msg.ReplyToMessageID = update.Message.MessageID
 						bot.Send(msg)
